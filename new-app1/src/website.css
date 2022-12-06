@@ -1,0 +1,27 @@
+body {
+    background: linear-gradient(#FF8200, #9198e5);
+    background-repeat: no-repeat;
+    background-color: #cccccc;
+}
+.header {
+    margin: auto;
+    text-align: center;
+    width: 25%;
+    font-size: 25px;
+    font-family: 'Lobster Two', cursive;
+    border: 3px solid #cf2d15;
+    padding: 10px;
+}
+.description1 {
+    margin: auto;
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Lobster Two';
+}
+.table {
+    display: table;
+}
+.column {
+    float: left;
+    width: 33%;
+}
